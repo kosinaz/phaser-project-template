@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "playon",
+	"frame": {"x":0,"y":0,"w":96,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":96},
+	"sourceSize": {"w":96,"h":96}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sprites.png",
+	"format": "RGBA8888",
+	"size": {"w":96,"h":96},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2a3d47911e0fa05caa31acfd5aa8b7d7:51ce7afbd5a91afb01b67891b4f93d7e:1eabdf11f75e3a4fe3147baf7b5be24b$"
+}
+}
